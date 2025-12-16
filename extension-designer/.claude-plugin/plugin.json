@@ -1,0 +1,21 @@
+{
+  "name": "extension-designer",
+  "version": "1.0.0",
+  "description": "Expert guidance for creating Claude Code extensions following production best practices. Auto-activates to help choose between Skills, Agents, Commands, and Hooks.",
+  "author": {
+    "name": "Matt Wiley",
+    "url": "https://github.com/matt-wiley"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-wiley/claude-bits"
+  },
+  "keywords": [
+    "extensions",
+    "skills",
+    "agents",
+    "best-practices",
+    "meta",
+    "productivity"
+  ]
+}
