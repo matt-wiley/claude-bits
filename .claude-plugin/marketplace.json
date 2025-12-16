@@ -1,0 +1,17 @@
+{
+  "name": "claude-bits",
+  "description": "A marketplace of plugins for Claude Code that's all mine. ... And yours if you'd like to contribute",
+  "owner": {
+    "name": "Matt Wiley",
+    "url": "https://github.com/matt-wiley"
+  },
+  "plugins": [
+    {
+      "name": "extension-designer",
+      "source": "./extension-designer",
+      "description": "Expert guidance for creating Claude Code extensions. Auto-activates to help choose between Skills, Agents, Commands, and Hooks.",
+      "version": "1.0.0",
+      "keywords": ["extensions", "skills", "agents", "best-practices", "meta"]
+    }
+  ]
+}
